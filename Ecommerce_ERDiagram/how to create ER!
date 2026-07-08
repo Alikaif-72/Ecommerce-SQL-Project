@@ -1,0 +1,25 @@
+they have many to create ER-Diagram on our database-
+
+🥇 Option 1 (Recommended) — dbdiagram.io ⭐⭐⭐⭐⭐
+
+1. Open dbdiagram.io
+2. Sign in (GitHub account se bhi kar sakte ho)
+3. New Diagram banao.
+4. Apni tables aur relationships likho.
+5. PNG export kar lo.
+6. Save as:
+
+🥈 Option 2 — MySQL Workbench ⭐⭐⭐⭐⭐ (Best)
+Steps:
+1. Open MySQL Workbench
+2. Database
+3. Reverse Engineer
+4. Select Ecommerce_DB
+5. Next → Finish
+6. Workbench automatically ER Diagram bana dega.
+7. File → Export → PNG
+Bas! Professional ER Diagram ready.
+
+
+🥉 Option 3 — draw.io (diagrams.net)
+1. Drag & Drop se bana sakte ho.
