@@ -1,0 +1,14 @@
+** All Queries :-
+
+-- Q-1 : Retrieve all customer details from the Customers table.
+-- Q-2 : Display the names and prices of products that cost more than ₹10,000.
+-- Q-3 : Display the top 5 most expensive products.
+-- Q-4 : Display each customer's name along with their order details.
+-- Q-5 : Display all customers, including those who have never placed an order.
+-- Q-6 : Display each product with its category and supplier.
+-- Q-7 : Calculate the total revenue generated from all orders.
+-- Q-8 : Find the average price of all products.
+-- Q-9 : Count the total number of registered customers.
+-- Q-10 : Find the product(s) with the highest price.
+-- Q-11 : Find customers who have placed at least one order.
+-- Q-12 : Find products priced above the average product price.
